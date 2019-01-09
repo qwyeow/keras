@@ -8,4 +8,4 @@
 
 4. [MNIST](https://github.com/qwyeow/Keras/blob/master/MNIST.ipynb): Recognizing hand-written digits using Dense Network and Convolutional Neural Network
 
-5.
+5. [Reuters](https://github.com/qwyeow/Keras/blob/master/ReutersMulticlass.ipynb): Single-label, multi-class classification on a dataset consisting of 11,228 newswires from Reuters, labeled over 46 topics.
