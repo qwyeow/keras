@@ -4,4 +4,8 @@
 
 2. [Dinosaur_island_Keras](https://github.com/qwyeow/Keras/blob/master/Dinosaur_island_Keras.ipynb): Character-level language model that generates new dinosaur names
 
-3. [IMDB](https://github.com/qwyeow/Keras/blob/master/IMDB.ipynb): Movie review sentiment analysis using Dense Network,  Dense Network+Embedding Layer, Dense Network +GLove, Recurrent Neural Netowork, LSTM.  
+3. [IMDB](https://github.com/qwyeow/Keras/blob/master/IMDB.ipynb): Movie review sentiment analysis using Dense Network,  Dense Network+Embedding Layer, Dense Network +GLove, Recurrent Neural Netowork, LSTM. 
+
+4. [MNIST](https://github.com/qwyeow/Keras/blob/master/MNIST.ipynb): Recognizing hand-written digits using Dense Network and Convolutional Neural Network
+
+5.
